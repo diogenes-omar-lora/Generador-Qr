@@ -3,10 +3,9 @@
     margin: 0;
 }
 
-.body{
-    background-image: url(/img/img2.jpg);
+body{
     background-size: cover;
-    height: 100vh;
+    height: 92vh;
     align-items: center;
     background-position: center;
     justify-content: center;
@@ -33,7 +32,8 @@
     margin: 50px auto;
     color: rgb(0, 0, 0);
     text-align: center;
-    background-color: white;
+    background: rgb(228,230,4);
+    background: linear-gradient(333deg, rgba(228,230,4,1) 4%, rgba(190,3,3,1) 65%);
     border-radius: 10px;
-    width: 80%;
+    width: 50%;
 }
